@@ -21,7 +21,13 @@ Join us for a live coding demo to show you how to develop an AI-enabled applicat
 
 ### What’s Foundry Local?
 
-Foundry Local is designed to streamline local AI app development and model deployment. It integrates services, models/agents/tools, and runtime for efficient optimization and execution on PCs, with future support for Macs, Android, iOS, and IoT devices. 
+Foundry Local is designed to streamline local AI app development and model deployment. It integrates services, models/agents/tools, and runtime for efficient optimization and execution on PCs, with future support for Macs, Android, iOS, and IoT devices. Foundry Local brings the power of Azure AI Foundry to your local device. It allows you to:
+
+-Run large language models (LLMs) directly on your hardware
+-Keep all data processing on-device for enhanced privacy and security
+-Integrate models with your applications through an OpenAI-compatible API
+-Optimize performance using ONNX Runtime and hardware acceleration
+
 
 ### What do customers need from Foundry Local
 Developers need ease of use and performance, prioritizing intuitive interfaces, robust documentation, seamless onboarding, and efficient debugging tools. Models must run efficiently under resource constraints, requiring optimized algorithms and hardware acceleration.
