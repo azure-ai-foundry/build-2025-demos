@@ -8,6 +8,7 @@ Before you Go, check this deck: Build 25_Topic Readiness AI.pptx. Make sure that
 
 -Keynote: Microsoft Build opening keynote
  Microsoft Build opening keynote (Foundry Local will be mentioned during the keynote)
+ https://build.microsoft.com/en-US/sessions/KEY010?source=sessions
 
 -Breakout: AI on your terms: Build & Ship AI Apps Across Platforms with Windows + Foundry 
 Bring AI Foundry to Local: Building cutting-edge on-device AI experiences (Breakout session)
