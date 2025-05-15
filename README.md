@@ -33,11 +33,11 @@ Learn more about Foundry Local: AIFPC _AIFL PrPr_for Build25.pptx
 -GitHub Repo: [Link to the Repo], Yes this Repo
 
 -Videos: Product Demos: FL Demos for Build25.pptx
-    -Slide #2: Demo of foundry local running DeepSeek showing NPU performance-No audio
-    -Slide#3: Foundry local running Phi-4-gpu and Deepseek-R1-cpu showing tokens per second showing the use of GPU and CPU on same device. -with audio
-    -Slide#5: Demo of Foundry Local in an Application: Chat interface – with audio
-    -Slide#6: Foundry Local in VScode for chat completion API, streaming API and Azure AI inference-with audio
-    -Slide#7: Demo of Foundry Local -with background music
+    -Slide2: Demo of foundry local running DeepSeek showing NPU performance-No audio
+    -Slide3: Foundry local running Phi-4-gpu and Deepseek-R1-cpu showing tokens per second showing the use of GPU and CPU on same device. -with audio
+    -Slide5: Demo of Foundry Local in an Application: Chat interface – with audio
+    -Slide6: Foundry Local in VScode for chat completion API, streaming API and Azure AI inference-with audio
+    -Slide7: Demo of Foundry Local -with background music
 
 ### Customers and Partners Videos by Use case
     -SONE –[link to be added here] Foundry local and Azure Speech Services: Hybrid cloud
