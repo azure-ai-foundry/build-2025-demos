@@ -37,7 +37,7 @@ Access to a diverse library of quality pre-trained models that can be customized
 Learn more about Foundry Local: AIFPC _AIFL PrPr_for Build25.pptx
 
 ### Resources at your Station
--GitHub Repo: [Link to the Repo], Yes this Repo
+-GitHub Repo: [https://github.com/azure-ai-foundry/build-2025-demos], Yes this Repo
 
 -Videos: Product Demos: FL Demos for Build25.pptx
     -Slide2: Demo of foundry local running DeepSeek showing NPU performance-No audio
@@ -45,6 +45,8 @@ Learn more about Foundry Local: AIFPC _AIFL PrPr_for Build25.pptx
     -Slide5: Demo of Foundry Local in an Application: Chat interface – with audio
     -Slide6: Foundry Local in VScode for chat completion API, streaming API and Azure AI inference-with audio
     -Slide7: Demo of Foundry Local -with background music
+    
+https://microsoft-my.sharepoint.com/:p:/p/jmachado/ER1DpQ6TcGdLmCvbBGkpofEBDqrcdKWMSWkfrem4DAU4iw?e=Fkm4jt
 
 ### Customers and Partners Videos by Use case
     -SONE –[link to be added here] Foundry local and Azure Speech Services: Hybrid cloud
